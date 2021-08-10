@@ -1,0 +1,22 @@
+body{
+    background-size: cover;
+}
+
+#bag_img{
+    border-radius: 50px;
+    margin-top: 10px;
+    height: 700;
+    width: 700;
+}
+
+.google_lens{
+    text-align: left;
+    font-size: 30px !important;
+    font-family: 'Noto Sans JP', sans-serif;
+    margin-left: 130px !important;
+    margin-top: 70px;
+}
+
+#div_bottle{
+    margin-top: 60px;
+}
